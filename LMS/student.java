@@ -2,7 +2,7 @@ package LMS;
 
 public class student {
     public static void main(String[] args){
-        int studentID=101;
+        byte studentID=101;
         String studentName="Aarthi";
         byte studentAge=21;
         char studentGender='F';
