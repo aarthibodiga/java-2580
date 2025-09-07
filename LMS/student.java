@@ -1,6 +1,6 @@
 package LMS;
 
-public class student {
+public class student {   
     public static void main(String[] args){
         byte studentID=101;
         String studentName="Aarthi";
