@@ -2,7 +2,7 @@ package CRM ;
 
 public class customer {
     public static void main(String[]args){
-        byte CustomerID =112;
+        int CustomerID =112;
         String CustonerName ="Aarthi";
         String email="Aarthi@gmail.com";
         long customerMobileNumber= 630157894;
