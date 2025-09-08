@@ -2,7 +2,7 @@ package LMS;
 
 public class trainer {
     public static void main(String[] args){
-       short trainerID=250;
+       int trainerID=250;
        String trainerName="Ravi";
        char Gender='M';
        byte TrainerAge=35;
