@@ -7,7 +7,7 @@ public class trainer {
        char Gender='M';
        byte TrainerAge=35;
        String email="ravi@gmail.com";
-       long Trainercontact= 751056725;
+       long Trainercontact= 7510567250L;
        String subject="Java";
       boolean isActive=true;
       int Salary=55000;
